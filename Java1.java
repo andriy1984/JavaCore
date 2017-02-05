@@ -144,12 +144,12 @@ public class Java1 {
     public static void main(String[] args) {
 
         Java1 jv1 = new Java1();
-//        jv1.Tasks1();
-//        jv1.Tasks2();
-//        jv1.Tasks3();
-//        jv1.Tasks4();
-//        jv1.HomeWork1();
-//        jv1.HomeWork2();
+        jv1.Tasks1();
+        jv1.Tasks2();
+        jv1.Tasks3();
+        jv1.Tasks4();
+        jv1.HomeWork1();
+        jv1.HomeWork2();
         jv1.HomeWork4();
 
     }
